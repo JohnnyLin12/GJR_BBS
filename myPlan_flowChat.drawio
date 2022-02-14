@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T07:39:08.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="dIhS6ugZhTajvnr0vyWc" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-14T08:09:07.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="WETF4Sy7TOGCatw6uHTe" version="16.5.6" type="github">
   <diagram id="Z8f3CBe4EY3VkV6AFtyd" name="第 1 页">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,19 +15,19 @@
         <mxCell id="BF4byPcyoN0RAYr1RFlk-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BF4byPcyoN0RAYr1RFlk-4" target="BF4byPcyoN0RAYr1RFlk-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BF4byPcyoN0RAYr1RFlk-4" value="点击创建&lt;br&gt;小组计划按钮" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BF4byPcyoN0RAYr1RFlk-4" value="点击创建&lt;br&gt;打卡计划按钮" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="85" y="120" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BF4byPcyoN0RAYr1RFlk-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BF4byPcyoN0RAYr1RFlk-6" target="BF4byPcyoN0RAYr1RFlk-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BF4byPcyoN0RAYr1RFlk-6" value="弹出小组计划&lt;br&gt;信息表单" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="BF4byPcyoN0RAYr1RFlk-6" value="弹出打卡计划&lt;br&gt;信息表单" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="190" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BF4byPcyoN0RAYr1RFlk-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BF4byPcyoN0RAYr1RFlk-8" target="BF4byPcyoN0RAYr1RFlk-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BF4byPcyoN0RAYr1RFlk-8" value="填写小组计划&lt;br&gt;计划类型&lt;br&gt;打卡天数" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="BF4byPcyoN0RAYr1RFlk-8" value="填写打卡计划&lt;br&gt;计划类型&lt;br&gt;打卡天数" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="85" y="285" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BF4byPcyoN0RAYr1RFlk-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="BF4byPcyoN0RAYr1RFlk-17" target="BF4byPcyoN0RAYr1RFlk-6" edge="1">
@@ -56,7 +56,7 @@
         <mxCell id="P7t3JeTDS6tySGeJA6S9-2" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BF4byPcyoN0RAYr1RFlk-19" target="BF4byPcyoN0RAYr1RFlk-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BF4byPcyoN0RAYr1RFlk-19" value="选择分享&lt;br&gt;至哪个小组" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="BF4byPcyoN0RAYr1RFlk-19" value="选择分享&lt;br&gt;至哪个好友/群组" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="381" y="282.5" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="P7t3JeTDS6tySGeJA6S9-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BF4byPcyoN0RAYr1RFlk-25" target="BF4byPcyoN0RAYr1RFlk-26">
