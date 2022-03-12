@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-12T04:00:59.189Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="jbh9nc6UnJB7NPcqBofa" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-12T05:06:53.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="FRUGTZCUOp7Q6WNHW7PR" version="17.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -96,7 +96,7 @@
         <mxCell id="nPlPMyPnGV62gzJP1ENc-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nPlPMyPnGV62gzJP1ENc-26" target="nPlPMyPnGV62gzJP1ENc-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nPlPMyPnGV62gzJP1ENc-26" value="封禁违规&lt;br&gt;用户的账号" style="whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="nPlPMyPnGV62gzJP1ENc-26" value="选择相应封禁类型&lt;br&gt;进行封禁" style="whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nPlPMyPnGV62gzJP1ENc-27" value="结束" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
